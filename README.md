@@ -1,4 +1,4 @@
-### Steps to deploy
+### Steps to deploy Airflow
 
 #### Init containers
 
